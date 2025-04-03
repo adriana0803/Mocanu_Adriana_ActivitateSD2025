@@ -27,6 +27,12 @@
     <ClCompile Include="Seminar5.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TaskSuplimentar1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt">
