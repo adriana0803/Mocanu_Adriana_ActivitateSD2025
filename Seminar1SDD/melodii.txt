@@ -1,0 +1,10 @@
+1,Hypnotize,The Notorious B.I.G,4.3,2,10.0,9.4
+2,Bucuresti,Paulina,2.4,2,9.5,8.0
+3,Stangaci,Ana Coman,3.2,4,7.6,8.9,10.0,6.5
+4,Superman,Eminem,4.5,3,8.7,9.0,7.5
+5,Nothing else matters,Metallica,4.5,3,10.0,9.7,7.9
+6,Despacito,Luis Fonsi,3.8,3,9.0,8.5,9.5
+7,Bohemian Rhapsody,Queen,5.9,2,10.0,10.0
+8,Imagine,John Lennon,3.1,2,9.2,9.8
+9,Rolling in the Deep,Adele,3.5,1,9.3
+10,In the End,Linkin Park,4.0,2,8.7,9.1

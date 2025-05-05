@@ -33,9 +33,24 @@
     <ClCompile Include="Seminar6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TaskSuplimentar2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Seminar7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TaskSuplimentar3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TaskSuplimentar4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="melodii.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>
