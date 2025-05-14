@@ -134,6 +134,7 @@
     <ClCompile Include="Seminar6.c" />
     <ClCompile Include="Seminar7.c" />
     <ClCompile Include="Seminar8.c" />
+    <ClCompile Include="Seminar9.c" />
     <ClCompile Include="TaskSuplimentar1.c" />
     <ClCompile Include="TaskSuplimentar2.c" />
     <ClCompile Include="TaskSuplimentar3.c" />
