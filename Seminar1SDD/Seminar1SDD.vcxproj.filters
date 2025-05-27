@@ -69,12 +69,39 @@
     <ClCompile Include="ArboreAVL.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StiveCozi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TaskSuplimentar8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TaskSuplimentar9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TaskSuplimentar10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TaskSuplimentar11.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TaskSuplimentar12.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt">
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="melodii.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="cladiri.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="pacienti.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="studenti.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>

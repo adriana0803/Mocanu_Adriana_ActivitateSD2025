@@ -1,0 +1,10 @@
+1,Andrei Pop,2
+2,Elena Vlad,1
+3,Mihnea Balan,3
+4,Roxana Dima,4
+5,Cosmin Istrate,2
+6,Laura Matei,1
+7,Vlad Enache,3
+8,Sabina Georgescu,2
+9,Alexandra Radu,1
+10,George Ionescu,3

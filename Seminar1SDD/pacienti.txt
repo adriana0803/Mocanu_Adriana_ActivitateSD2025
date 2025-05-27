@@ -1,0 +1,11 @@
+Elena,34,4,
+Bogdan,60,9
+Radu,23,2
+Simona,41,6
+Florin,52,7
+Andreea,19,3
+Victor,38,5
+Laura,27,1
+Stefan,46,8
+Nicoleta,33,10
+George,50,11
