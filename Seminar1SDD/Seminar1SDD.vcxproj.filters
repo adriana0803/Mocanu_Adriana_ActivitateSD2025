@@ -60,6 +60,15 @@
     <ClCompile Include="Seminar10.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MaxHeap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ArboreABC.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ArboreAVL.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt">
